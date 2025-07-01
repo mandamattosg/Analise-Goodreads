@@ -7,7 +7,7 @@ A base de dados utilizada foi a Goodreads-books presente em: https://www.kaggle.
 Esses dados, disponibilizados por "jealousleopard" no Kaggle, foram coletados a partir da API pública do Goodreads. No entanto, desde 8 de dezembro de 2020, o Goodreads deixou de emitir novas chaves de desenvolvedor para sua API pública, o que significa que não há atualizações recentes provenientes diretamente do Goodreads.
 
 ## 🛠️ Construído com
-* SQLite, Python, Pandas, Matplotlib, Seaborn, NumPy, Scikit-Learn
+* SQL/SQLite, Python, Pandas, Matplotlib, Seaborn, NumPy, Scikit-Learn
 *  O projeto foi desenvolvido no Google Colab e pode ser acessado em: https://colab.research.google.com/drive/1uFmcYDV90v5CIIIdKZ3dfx5pIuaku3hp?usp=sharing
 
 ## ⚙️ Resultados
